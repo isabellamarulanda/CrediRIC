@@ -35,7 +35,7 @@ El sistema opera mediante una interfaz de consola amigable y utiliza archivos pl
 - **Seguridad y Reportes:**  
   Proveer un módulo de administrador protegido por contraseña para visualizar estadísticas críticas como el total de ventas, pagos realizados y comportamiento de los usuarios.
 
-  ## ✅ Beneficios
+## ✅ Beneficios
 
 - **Eliminación del Olvido:**  
   Resuelve el problema de la "memoria de pollo" al mantener un registro exacto de qué se prestó, a quién y en qué fecha.
@@ -100,6 +100,17 @@ Estos especifican criterios sobre la operación y calidad del sistema más allá
 
 - **RNF05 - Seguridad:**  
   El acceso a los reportes sensibles (Administrador) debe estar restringido mediante validación de credenciales almacenadas en una lista.
+
+## 📅 Cronograma (Diagrama de Gantt)
+
+| Fase | Actividad Principal     |  Sem 3-4 | Sem 5-6 | Sem 8 | Sem 9-10 | Sem 11-12 | Sem 13-14 | Sem 15 | Sem 16 
+|------|-------------------------|----------|---------|-------|----------|-----------|-----------|--------|--------|
+| Fase 1: Definición | Actas de entend | ████ |        |      |          |           |           |        |        |
+| Fase 2: Requisitos | Entrevista y v  |      | ████   |      |          |           |           |        |        |
+| Fase 3: Diseño     | Plan del pro    |      |        | ████ |          |           |           |        |        |
+| Fase 4: Desarrollo | Programación Py |      |        |      | ████     | ████      | ████      |        |        |
+| Fase 5: Documenta  | Manual de usuar |      |        |      |          |           |           | ████   |        |
+| Fase 6: Cierre     | Sustentación fin|      |        |      |          |           |           |        | ████   |
 
 # Licencia
 <a href="https://github.com/isabellamarulanda/CrediRIC">CrediRIC</a> © 2026 by <a href="https://github.com/isabellamarulanda">Isabella Marulanda Uribe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
