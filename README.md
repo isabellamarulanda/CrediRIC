@@ -3,10 +3,9 @@
 El proyecto desarrolla un software en Python para gestionar préstamos de artículos, registrando usuarios y operaciones de préstamo/retorno. Usa clases y menú en consola, y genera facturas si no se devuelve en 30 días. Incluye exportación a CSV y trabajo colaborativo en grupos con actas y seguimiento.
  # *Integrantes*
  ## **Raquel Morillo Caicedo**
- Estoy en el programa de Ingenieria Industrial, dentro de mis habilidades y fortalezas estan la creatividad y pensamiento visual, mis ganas de aprender que van de la mano con querer mejorar constamente, y tambien me considero una persona muy organizada que tiene claridad en sus objetivos teniendo a su vez responsabilidad y empatia. 
- > Descripcion
+> Estoy en el programa de Ingenieria Industrial, dentro de mis habilidades y fortalezas estan la creatividad y pensamiento visual, mis ganas de aprender que van de la mano con querer mejorar constamente, y tambien me considero una persona muy organizada que tiene claridad en sus objetivos teniendo a su vez responsabilidad y empatia. 
 ## **Maria Camila Osorio Tuberquia**
-> Descripcion 2
+> Soy una persona resiliente, adaptable y con pensamiento crítico, capaz de gestionar mi tiempo de manera efectiva y mantener una actitud positiva ante los retos. Pertenezco al programa de Ingeniería Industrial y me caracterizo por mi responsabilidad, compromiso y disciplina, actuando siempre con determinación y apertura al aprendizaje continuo.
 ## **Isabella Marulanda Uribe**
 > Estoy en el programa de Ingeniería Industrial. Dentro de mis habilidades y fortalezas se destacan mi creatividad y capacidad para resolver problemas, así como mi facilidad para trabajar en equipo. Me considero una persona organizada, responsable y con muchas ganas de aprender y mejorar constantemente, siempre buscando cumplir mis objetivos con compromiso y buena actitud.
 # Licencia
