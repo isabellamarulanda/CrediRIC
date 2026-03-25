@@ -49,5 +49,57 @@ El sistema opera mediante una interfaz de consola amigable y utiliza archivos pl
 - **Transparencia:**  
   Al generar certificados de devolución y reportes de estado, tanto el prestamista como el deudor tienen claridad sobre sus compromisos activos.
 
+## 📋 Requisitos
+
+### 🔹 Requisitos Funcionales (RF)
+
+Los requisitos funcionales definen las acciones y comportamientos que CrediRIC debe ejecutar para satisfacer al usuario:
+
+- **RF01 - Gestión de Usuarios:**  
+  El sistema debe permitir registrar amigos con nombre (mínimo 3 letras, sin números), apellido (mínimo 3 letras, sin números), documento (3-15 dígitos numéricos) y correo electrónico válido (con "@", "." y "com").
+
+- **RF02 - Definición de Tiempos:**  
+  Al crear un usuario, se debe asignar un tiempo de préstamo permitido de 5, 10, 15 o 30 días únicamente.
+
+- **RF03 - Registro de Inventario:**  
+  El sistema debe permitir registrar ítems categorizados en: Videojuegos, Libros, Música/Video, Herramientas, Dinero o Misceláneo.
+
+- **RF04 - Identificación Única:**  
+  Cada ítem debe poseer un ID único alfanumérico asociado a su categoría y registrar su precio de compra original.
+
+- **RF05 - Valoración del Estado:**  
+  Se debe registrar el estado físico del objeto utilizando lógica difusa para determinar su calidad.
+
+- **RF06 - Control de Préstamos:**  
+  Solo se pueden realizar préstamos a usuarios previamente registrados en la plataforma.
+
+- **RF07 - Certificación de Devolución:**  
+  Si la devolución es exitosa y a tiempo, el sistema generará un archivo de texto plano con el nombre del prestador, fecha e ID.
+
+- **RF08 - Generación de Facturas (Venta):**  
+  Para ítems con más de 30 días de préstamo, el sistema debe generar automáticamente una factura de venta que incluya el precio base más un 23% de impuesto.
+
+- **RF09 - Módulo Administrativo:**  
+  Debe existir un submenú protegido por usuario y contraseña que muestre reportes de ventas, préstamos totales y estadísticas de usuarios.
+
+### 🔸 Requisitos No Funcionales (RNF)
+
+Estos especifican criterios sobre la operación y calidad del sistema más allá de su comportamiento específico:
+
+- **RNF01 - Usabilidad:**  
+  El programa debe contar con un menú amigable basado en consola para facilitar la navegación del usuario.
+
+- **RNF02 - Persistencia de Datos:**  
+  Toda la información debe ser gestionada mediante archivos planos y ser capaz de exportarse a formato CSV usando Python.
+
+- **RNF03 - Lenguaje de Desarrollo:**  
+  El software debe estar escrito estrictamente en el lenguaje de programación Python.
+
+- **RNF04 - Gestión de Versiones:**  
+  El código debe estar alojado en un repositorio de GitHub bajo una estructura de carpetas específica (src para código y doc para manuales).
+
+- **RNF05 - Seguridad:**  
+  El acceso a los reportes sensibles (Administrador) debe estar restringido mediante validación de credenciales almacenadas en una lista.
+
 # Licencia
 <a href="https://github.com/isabellamarulanda/CrediRIC">CrediRIC</a> © 2026 by <a href="https://github.com/isabellamarulanda">Isabella Marulanda Uribe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
