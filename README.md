@@ -21,5 +21,33 @@ El software funciona como un sistema de gestión integral que permite:
 
 El sistema opera mediante una interfaz de consola amigable y utiliza archivos planos para garantizar que la información sea persistente y exportable a formatos como CSV.
 
+## 🎯 Objetivos
+
+- **Gestión Centralizada:**  
+  Crear un programa de consola que permita administrar el flujo completo de préstamos y devoluciones de artículos y dinero.
+
+- **Control de Tiempos:**  
+  Implementar alertas automáticas para solicitar devoluciones después de 20 días y procesar ventas obligatorias tras 30 días de mora.
+
+- **Formalización de Procesos:**  
+  Generar documentos técnicos (certificados de devolución y facturas de venta) que den soporte legal y administrativo a cada transacción.
+
+- **Seguridad y Reportes:**  
+  Proveer un módulo de administrador protegido por contraseña para visualizar estadísticas críticas como el total de ventas, pagos realizados y comportamiento de los usuarios.
+
+  ## ✅ Beneficios
+
+- **Eliminación del Olvido:**  
+  Resuelve el problema de la "memoria de pollo" al mantener un registro exacto de qué se prestó, a quién y en qué fecha.
+
+- **Protección del Patrimonio:**  
+  Asegura que el dueño no pierda dinero; si un objeto no regresa en un mes, el sistema genera una factura por el valor de adquisición más un 23% de "impuesto por conchudez".
+
+- **Organización del Inventario:**  
+  Clasifica los bienes en categorías específicas (Videojuegos, Herramientas, Dinero, etc.), asignando identificadores únicos para una búsqueda rápida.
+
+- **Transparencia:**  
+  Al generar certificados de devolución y reportes de estado, tanto el prestamista como el deudor tienen claridad sobre sus compromisos activos.
+
 # Licencia
 <a href="https://github.com/isabellamarulanda/CrediRIC">CrediRIC</a> © 2026 by <a href="https://github.com/isabellamarulanda">Isabella Marulanda Uribe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
