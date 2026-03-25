@@ -8,5 +8,18 @@ El proyecto desarrolla un software en Python para gestionar préstamos de artíc
 > Soy una persona resiliente, adaptable y con pensamiento crítico, capaz de gestionar mi tiempo de manera efectiva y mantener una actitud positiva ante los retos. Pertenezco al programa de Ingeniería Industrial y me caracterizo por mi responsabilidad, compromiso y disciplina, actuando siempre con determinación y apertura al aprendizaje continuo.
 ## **Isabella Marulanda Uribe**
 > Estoy en el programa de Ingeniería Industrial. Dentro de mis habilidades y fortalezas se destacan mi creatividad y capacidad para resolver problemas, así como mi facilidad para trabajar en equipo. Me considero una persona organizada, responsable y con muchas ganas de aprender y mejorar constantemente, siempre buscando cumplir mis objetivos con compromiso y buena actitud.
+
+## 📌 **Descripción del Proyecto**
+
+**CrediRIC** es una solución tecnológica desarrollada en Python, diseñada para resolver la pérdida de control sobre préstamos personales.  
+
+El software funciona como un sistema de gestión integral que permite:
+
+- Registrar amigos (clientes)  
+- Inventariar objetos de diversas categorías y dinero  
+- Realizar un seguimiento riguroso de las fechas de entrega  
+
+El sistema opera mediante una interfaz de consola amigable y utiliza archivos planos para garantizar que la información sea persistente y exportable a formatos como CSV.
+
 # Licencia
 <a href="https://github.com/isabellamarulanda/CrediRIC">CrediRIC</a> © 2026 by <a href="https://github.com/isabellamarulanda">Isabella Marulanda Uribe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
