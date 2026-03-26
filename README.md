@@ -1,15 +1,15 @@
 ![Imagen del proyecto](https://raw.githubusercontent.com/isabellamarulanda/CrediRIC/refs/heads/main/img/Imagen%20crediRIC.jpeg)
-# CrediRIC
+# CrediRIC 📊💰💵
 El proyecto desarrolla un software en Python para gestionar préstamos de artículos, registrando usuarios y operaciones de préstamo/retorno. Usa clases y menú en consola, y genera facturas si no se devuelve en 30 días. Incluye exportación a CSV y trabajo colaborativo en grupos con actas y seguimiento.
  # *Integrantes*
- ## **Raquel Morillo Caicedo**
+ ## **Raquel Morillo Caicedo** 
 > Estoy en el programa de Ingenieria Industrial, dentro de mis habilidades y fortalezas estan la creatividad y pensamiento visual, mis ganas de aprender que van de la mano con querer mejorar constamente, y tambien me considero una persona muy organizada que tiene claridad en sus objetivos teniendo a su vez responsabilidad y empatia. 
 ## **Maria Camila Osorio Tuberquia**
 > Soy una persona resiliente, adaptable y con pensamiento crítico, capaz de gestionar mi tiempo de manera efectiva y mantener una actitud positiva ante los retos. Pertenezco al programa de Ingeniería Industrial y me caracterizo por mi responsabilidad, compromiso y disciplina, actuando siempre con determinación y apertura al aprendizaje continuo.
 ## **Isabella Marulanda Uribe**
 > Estoy en el programa de Ingeniería Industrial. Dentro de mis habilidades y fortalezas se destacan mi creatividad y capacidad para resolver problemas, así como mi facilidad para trabajar en equipo. Me considero una persona organizada, responsable y con muchas ganas de aprender y mejorar constantemente, siempre buscando cumplir mis objetivos con compromiso y buena actitud.
 
-## 📌 **Descripción del Proyecto**
+## 💡📚 **Descripción del Proyecto** 💡📚
 
 **CrediRIC** es una solución tecnológica desarrollada en Python, diseñada para resolver la pérdida de control sobre préstamos personales. 
 
@@ -21,7 +21,7 @@ El software funciona como un sistema de gestión integral que permite:
 
 El sistema opera mediante una interfaz de consola amigable y utiliza archivos planos para garantizar que la información sea persistente y exportable a formatos como CSV.
 
-## 🎯 Objetivos
+## 🎯📈 Objetivos
 
 - **Gestión Centralizada:**  
   Crear un programa de consola que permita administrar el flujo completo de préstamos y devoluciones de artículos y dinero.
@@ -35,7 +35,7 @@ El sistema opera mediante una interfaz de consola amigable y utiliza archivos pl
 - **Seguridad y Reportes:**  
   Proveer un módulo de administrador protegido por contraseña para visualizar estadísticas críticas como el total de ventas, pagos realizados y comportamiento de los usuarios.
 
-## ✅ Beneficios
+## 🌟🔥 Beneficios
 
 - **Eliminación del Olvido:**  
   Resuelve el problema de la "memoria de pollo" al mantener un registro exacto de qué se prestó, a quién y en qué fecha.
@@ -49,9 +49,9 @@ El sistema opera mediante una interfaz de consola amigable y utiliza archivos pl
 - **Transparencia:**  
   Al generar certificados de devolución y reportes de estado, tanto el prestamista como el deudor tienen claridad sobre sus compromisos activos.
 
-## 📋 Requisitos
+## 📋🚫 Requisitos
 
-### 🔹 Requisitos Funcionales (RF)
+### ✔️ Requisitos Funcionales (RF)
 
 Los requisitos funcionales definen las acciones y comportamientos que CrediRIC debe ejecutar para satisfacer al usuario:
 
@@ -82,7 +82,7 @@ Los requisitos funcionales definen las acciones y comportamientos que CrediRIC d
 - **RF09 - Módulo Administrativo:**  
   Debe existir un submenú protegido por usuario y contraseña que muestre reportes de ventas, préstamos totales y estadísticas de usuarios.
 
-### 🔸 Requisitos No Funcionales (RNF)
+### ✔️ Requisitos No Funcionales (RNF)
 
 Estos especifican criterios sobre la operación y calidad del sistema más allá de su comportamiento específico:
 
@@ -101,7 +101,61 @@ Estos especifican criterios sobre la operación y calidad del sistema más allá
 - **RNF05 - Seguridad:**  
   El acceso a los reportes sensibles (Administrador) debe estar restringido mediante validación de credenciales almacenadas en una lista.
 
-## 📅 Cronograma (Diagrama de Gantt)
+## 📝🔎 Descrpcion de Actividades
+
+Para el desarrollo de **CrediRIC**, el equipo ha definido un conjunto de actividades críticas divididas en fases, asegurando el cumplimiento de los entregables en el repositorio de GitHub:
+
+### ✔️ Fase 1: Formalización y Alianzas (Semanas 3-4)
+
+- **Elaboración de Actas de Entendimiento y Compromiso:**  
+  Reunión inicial para definir las expectativas de cada miembro y los objetivos comunes del proyecto.
+
+- **Definición de Protocolos de Colaboración:**  
+  Redacción del acta que especifica la metodología de trabajo, canales de comunicación y mecanismos para la resolución de conflictos.
+
+- **Asignación de Responsabilidades:**  
+  Creación del acta de responsabilidad donde se delegan tareas específicas y se establecen los plazos de entrega internos.
+
+### ✔️ Fase 2: Ingeniería de Requisitos y Diseño (Semanas 5-8)
+
+- **Entrevista con el Product Owner (PO):**  
+  Sesión de recolección de requisitos con el docente para entender las necesidades de gestión de préstamos.
+
+- **Redacción del Reporte de Visión:**  
+  Descripción general del software CrediRIC, detallando sus beneficios y objetivos principales.
+
+- **Especificación de Requisitos:**  
+  Definición técnica de los requisitos funcionales (como validaciones de nombre y cálculos de impuestos) y no funcionales (seguridad y persistencia en archivos planos).
+
+- **Planificación y Presupuesto:**  
+  Elaboración del cronograma y cálculo del presupuesto basado en 50 horas de práctica profesional.
+
+### ✔️ Fase 3: Desarrollo del Algoritmo (Semanas 9-14)
+
+- **Configuración del Entorno (Carpeta `src`):**  
+  Inicialización del repositorio en GitHub utilizando credenciales institucionales.
+
+- **Implementación de Módulos Core:**  
+  Programación en Python de las funciones de registro de usuarios, inventario de ítems y lógica de préstamos.
+
+- **Lógica de Negocio y Automatización:**  
+  Desarrollo del sistema de alertas para préstamos mayores a 20 días y el motor de facturación automática para ventas tras 30 días, incluyendo el impuesto del 23%.
+
+- **Módulo de Administración:**  
+  Programación del acceso restringido para la consulta de estadísticas generales y reportes financieros.
+  
+### ✔️ Fase 4: Documentación y Cierre (Semanas 15-16)
+
+- **Creación del Manual de Usuario (Carpeta `doc`):**  
+  Redacción de instrucciones detalladas para el uso del sistema.
+
+- **Plan de Versionado Final:**  
+  Documentación del historial de versiones y avances del software.
+
+- **Sustentación y Entrega:**  
+  Presentación del software ante el docente, incluyendo explicación técnica del funcionamiento.
+
+## 🧩📈 **Diagrama de Gantt**
 
 | Fase | Actividad Principal     | Sem 3-4  | Sem 5-6 | Sem 8 | Sem 9-10 | Sem 11-12 | Sem 13-14 | Sem 15 | Sem 16 
 |------|-------------------------|----------|---------|-------|----------|-----------|-----------|--------|--------|
@@ -111,6 +165,8 @@ Estos especifican criterios sobre la operación y calidad del sistema más allá
 | Fase 4: Desarrollo | Programación    |      |        |      | ████     | ████      | ████      |        |        |
 | Fase 5: Documenta  | Manual usuario  |      |        |      |          |           |           | ████   |        |
 | Fase 6: Cierre     | Sustentación    |      |        |      |          |           |           |        | ████   |
+
+## 🪙🧾 **Presupuesto**
 
 # Licencia
 <a href="https://github.com/isabellamarulanda/CrediRIC">CrediRIC</a> © 2026 by <a href="https://github.com/isabellamarulanda">Isabella Marulanda Uribe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
