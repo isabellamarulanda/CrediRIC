@@ -9,7 +9,7 @@ El proyecto desarrolla un software en Python para gestionar préstamos de artíc
 ## **Isabella Marulanda Uribe**
 > Estoy en el programa de Ingeniería Industrial. Dentro de mis habilidades y fortalezas se destacan mi creatividad y capacidad para resolver problemas, así como mi facilidad para trabajar en equipo. Me considero una persona organizada, responsable y con muchas ganas de aprender y mejorar constantemente, siempre buscando cumplir mis objetivos con compromiso y buena actitud.
 
-## 💡📚 **Descripción del Proyecto** 💡📚
+## 💡📚 **Descripción del Proyecto** 
 
 **CrediRIC** es una solución tecnológica desarrollada en Python, diseñada para resolver la pérdida de control sobre préstamos personales. 
 
@@ -167,6 +167,30 @@ Para el desarrollo de **CrediRIC**, el equipo ha definido un conjunto de activid
 | Fase 6: Cierre     | Sustentación    |      |        |      |          |           |           |        | ████   |
 
 ## 🪙🧾 **Presupuesto**
+
+El presupuesto del proyecto **CrediRIC** se calcula con base en una dedicación parcial durante el desarrollo.
+
+### 📊 Detalle del Cálculo
+
+|  Concepto              |       Valor     |
+|--------------------------|---------------|
+| 🕒 Horas semanales       | 5 horas       |
+| 📅 Semanas por mes       | 4             |
+| ⏳ Duración del proyecto | 3,5 meses     |
+| 🌟 **Total de horas**    | **70 horas**  |
+| 💵 Valor por hora        | $10.943       |
+
+### 🧮 Cálculo Final
+
+| ✨ Operación             | Resultado   |
+|--------------------------|--------------|
+| 5 × 4 × 3,5              | 70 horas     |
+| 70 × $10.943             | $766.010     |
+
+### ✨ Presupuesto Total
+
+# 💰 **$766.010 COP**
+# Este valor representa el costo estimado del desarrollo del proyecto, considerando la dedicación parcial durante el tiempo establecido.
 
 # Licencia
 <a href="https://github.com/isabellamarulanda/CrediRIC">CrediRIC</a> © 2026 by <a href="https://github.com/isabellamarulanda">Isabella Marulanda Uribe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
