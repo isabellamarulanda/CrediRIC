@@ -190,7 +190,7 @@ El presupuesto del proyecto **CrediRIC** se calcula con base en una dedicación 
 ### ✨ Presupuesto Total
 
 # 💰 **$766.010 COP**
-# Este valor representa el costo estimado del desarrollo del proyecto, considerando la dedicación parcial durante el tiempo establecido.
+- Este valor representa el costo estimado del desarrollo del proyecto, considerando la dedicación parcial durante el tiempo establecido.
 
 # Licencia
 <a href="https://github.com/isabellamarulanda/CrediRIC">CrediRIC</a> © 2026 by <a href="https://github.com/isabellamarulanda">Isabella Marulanda Uribe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
