@@ -105,12 +105,12 @@ Estos especifican criterios sobre la operación y calidad del sistema más allá
 
 | Fase | Actividad Principal     | Sem 3-4  | Sem 5-6 | Sem 8 | Sem 9-10 | Sem 11-12 | Sem 13-14 | Sem 15 | Sem 16 
 |------|-------------------------|----------|---------|-------|----------|-----------|-----------|--------|--------|
-| Fase 1: Definición | Actas    +      | ████ |        |      |          |           |           |        |        |
+| Fase 1: Definición | Actas           | ████ |        |      |          |           |           |        |        |
 | Fase 2: Requisitos | Entrevista      |      | ████   |      |          |           |           |        |        |
-| Fase 3: Diseño     | Plan del pro    |      |        | ████ |          |           |           |        |        |
-| Fase 4: Desarrollo | Programación Py |      |        |      | ████     | ████      | ████      |        |        |
-| Fase 5: Documenta  | Manual de usuar |      |        |      |          |           |           | ████   |        |
-| Fase 6: Cierre     | Sustentación fin|      |        |      |          |           |           |        | ████   |
+| Fase 3: Diseño     | Plan proyecto   |      |        | ████ |          |           |           |        |        |
+| Fase 4: Desarrollo | Programación    |      |        |      | ████     | ████      | ████      |        |        |
+| Fase 5: Documenta  | Manual usuario  |      |        |      |          |           |           | ████   |        |
+| Fase 6: Cierre     | Sustentación    |      |        |      |          |           |           |        | ████   |
 
 # Licencia
 <a href="https://github.com/isabellamarulanda/CrediRIC">CrediRIC</a> © 2026 by <a href="https://github.com/isabellamarulanda">Isabella Marulanda Uribe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
