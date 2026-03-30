@@ -101,7 +101,7 @@ Estos especifican criterios sobre la operación y calidad del sistema más allá
 - **RNF05 - Seguridad:**  
   El acceso a los reportes sensibles (Administrador) debe estar restringido mediante validación de credenciales almacenadas en una lista.
 
-##  Descrpcion de Actividades
+##  Descripcion de Actividades
 
 Para el desarrollo de **CrediRIC**, el equipo ha definido un conjunto de actividades críticas divididas en fases, asegurando el cumplimiento de los entregables en el repositorio de GitHub:
 
