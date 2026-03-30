@@ -160,7 +160,7 @@ Para el desarrollo de **CrediRIC**, el equipo ha definido un conjunto de activid
 | Fase | Actividad Principal     | Sem 3-4  | Sem 5-6 | Sem 8 | Sem 9-10 | Sem 11-12 | Sem 13-14 | Sem 15 | Sem 16 
 |------|-------------------------|----------|---------|-------|----------|-----------|-----------|--------|--------|
 | Fase 1: Definición | Actas           | ████ |        |      |          |           |           |        |        |
-| Fase 2: Requisitos | Entrevista      |      | ████   |      |          |           |           |        |        |
+| Fase 2: Requisitos | Product Owner   |      | ████   |      |          |           |           |        |        |
 | Fase 3: Diseño     | Plan proyecto   |      |        | ████ |          |           |           |        |        |
 | Fase 4: Desarrollo | Programación    |      |        |      | ████     | ████      | ████      |        |        |
 | Fase 5: Documenta  | Manual usuario  |      |        |      |          |           |           | ████   |        |
