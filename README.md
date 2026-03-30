@@ -155,7 +155,8 @@ Para el desarrollo de **CrediRIC**, el equipo ha definido un conjunto de activid
 - **Sustentación y Entrega:**  
   Presentación del software ante el docente, incluyendo explicación técnica del funcionamiento.
 
-##  **Diagrama de Gantt**
+## **Plan del proyecto**
+##  **Cronograma**
 
 | Fase | Actividad Principal     | Sem 3-4  | Sem 5-6 | Sem 8 | Sem 9-10 | Sem 11-12 | Sem 13-14 | Sem 15 | Sem 16 
 |------|-------------------------|----------|---------|-------|----------|-----------|-----------|--------|--------|
