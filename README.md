@@ -1,5 +1,5 @@
 ![imagen del proyecto](Img/imagenproyecto.jpeg)
-# CrediRIC 📊💰💵
+# CrediRIC 📊
 El proyecto desarrolla un software en Python para gestionar préstamos de artículos, registrando usuarios y operaciones de préstamo/retorno. Usa clases y menú en consola, y genera facturas si no se devuelve en 30 días. Incluye exportación a CSV y trabajo colaborativo en grupos con actas y seguimiento.
  # *Integrantes*
  ## **Raquel Morillo Caicedo** 
@@ -9,7 +9,7 @@ El proyecto desarrolla un software en Python para gestionar préstamos de artíc
 ## **Isabella Marulanda Uribe**
 > Estoy en el programa de Ingeniería Industrial. Dentro de mis habilidades y fortalezas se destacan mi creatividad y capacidad para resolver problemas, así como mi facilidad para trabajar en equipo. Me considero una persona organizada, responsable y con muchas ganas de aprender y mejorar constantemente, siempre buscando cumplir mis objetivos con compromiso y buena actitud.
 
-## 💡📚 **Descripción del Proyecto** 
+## **Descripción del Proyecto** 
 
 **CrediRIC** es una solución tecnológica desarrollada en Python, diseñada para resolver la pérdida de control sobre préstamos personales. 
 
@@ -21,7 +21,7 @@ El software funciona como un sistema de gestión integral que permite:
 
 El sistema opera mediante una interfaz de consola amigable y utiliza archivos planos para garantizar que la información sea persistente y exportable a formatos como CSV.
 
-## 🎯📈 Objetivos
+##  Objetivos
 
 - **Gestión Centralizada:**  
   Crear un programa de consola que permita administrar el flujo completo de préstamos y devoluciones de artículos y dinero.
@@ -35,7 +35,7 @@ El sistema opera mediante una interfaz de consola amigable y utiliza archivos pl
 - **Seguridad y Reportes:**  
   Proveer un módulo de administrador protegido por contraseña para visualizar estadísticas críticas como el total de ventas, pagos realizados y comportamiento de los usuarios.
 
-## 🌟🔥 Beneficios
+##  Beneficios
 
 - **Eliminación del Olvido:**  
   Resuelve el problema de la "memoria de pollo" al mantener un registro exacto de qué se prestó, a quién y en qué fecha.
@@ -49,7 +49,7 @@ El sistema opera mediante una interfaz de consola amigable y utiliza archivos pl
 - **Transparencia:**  
   Al generar certificados de devolución y reportes de estado, tanto el prestamista como el deudor tienen claridad sobre sus compromisos activos.
 
-## 📋🚫 Requisitos
+##  Requisitos
 
 ### ✔️ Requisitos Funcionales (RF)
 
@@ -101,7 +101,7 @@ Estos especifican criterios sobre la operación y calidad del sistema más allá
 - **RNF05 - Seguridad:**  
   El acceso a los reportes sensibles (Administrador) debe estar restringido mediante validación de credenciales almacenadas en una lista.
 
-## 📝🔎 Descrpcion de Actividades
+##  Descrpcion de Actividades
 
 Para el desarrollo de **CrediRIC**, el equipo ha definido un conjunto de actividades críticas divididas en fases, asegurando el cumplimiento de los entregables en el repositorio de GitHub:
 
@@ -155,7 +155,7 @@ Para el desarrollo de **CrediRIC**, el equipo ha definido un conjunto de activid
 - **Sustentación y Entrega:**  
   Presentación del software ante el docente, incluyendo explicación técnica del funcionamiento.
 
-## 🧩📈 **Diagrama de Gantt**
+##  **Diagrama de Gantt**
 
 | Fase | Actividad Principal     | Sem 3-4  | Sem 5-6 | Sem 8 | Sem 9-10 | Sem 11-12 | Sem 13-14 | Sem 15 | Sem 16 
 |------|-------------------------|----------|---------|-------|----------|-----------|-----------|--------|--------|
@@ -166,28 +166,28 @@ Para el desarrollo de **CrediRIC**, el equipo ha definido un conjunto de activid
 | Fase 5: Documenta  | Manual usuario  |      |        |      |          |           |           | ████   |        |
 | Fase 6: Cierre     | Sustentación    |      |        |      |          |           |           |        | ████   |
 
-## 🪙🧾 **Presupuesto**
+##  **Presupuesto**
 
 El presupuesto del proyecto **CrediRIC** se calcula con base en una dedicación parcial durante el desarrollo.
 
-### 📊 Detalle del Cálculo
+###  Detalle del Cálculo
 
 |  Concepto              |       Valor     |
 |--------------------------|---------------|
-| 🕒 Horas semanales       | 5 horas       |
-| 📅 Semanas por mes       | 4             |
-| ⏳ Duración del proyecto | 3,5 meses     |
-| 🌟 **Total de horas**    | **70 horas**  |
-| 💵 Valor por hora        | $10.943       |
+|  Horas semanales       | 5 horas       |
+|  Semanas por mes       | 4             |
+|  Duración del proyecto | 3,5 meses     |
+|  **Total de horas**    | **70 horas**  |
+|  Valor por hora        | $10.943       |
 
-### 🧮 Cálculo Final
+###  Cálculo Final
 
-| ✨ Operación             | Resultado   |
+|  Operación             | Resultado   |
 |--------------------------|--------------|
 | 5 × 4 × 3,5              | 70 horas     |
 | 70 × $10.943             | $766.010     |
 
-### ✨ Presupuesto Total
+###  Presupuesto Total
 
 # 💰 **$766.010 COP**
 - Este valor representa el costo estimado del desarrollo del proyecto, considerando la dedicación parcial durante el tiempo establecido.
