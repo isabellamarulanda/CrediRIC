@@ -180,8 +180,6 @@ El presupuesto del proyecto **CrediRIC** se calcula con base en una dedicación 
 |  **Total de horas**    | **70 horas**  |
 |  Valor por hora        | $10.943       |
 
-###  Cálculo Final
-
 |  Operación             | Resultado   |
 |--------------------------|--------------|
 | 5 × 4 × 3,5              | 70 horas     |
