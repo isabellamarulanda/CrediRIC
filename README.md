@@ -205,7 +205,7 @@ El plan de versionado describe la evolución técnica del código fuente del sof
 | *v1.0* | Día 95 | Semana 16 | *Versión de Producción:* Pruebas finales de caja negra libres de errores. Creación de la carpeta doc en GitHub con el Manual de Usuario definitivo. |
 | *v1.1* | Día 98 | Semana 16 | *Cierre del Proyecto:* Congelamiento del código en GitHub listo para la sustentación presencial de 5 minutos ante el profesor Julián Andrés Castillo. |
 
-# ** Codigo***
+#  Codigo
 import os
 
 # BASES DE DATOS EN MEMORIA (LISTAS DE DICCIONARIOS)
