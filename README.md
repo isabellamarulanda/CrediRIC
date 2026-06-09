@@ -189,6 +189,22 @@ El presupuesto del proyecto **CrediRIC** se calcula con base en una dedicación 
 # 💰 **$766.010 COP**
 - Este valor representa el costo estimado del desarrollo del proyecto, considerando la dedicación parcial durante el tiempo establecido.
 ## **Plan de versionado**
+El plan de versionado describe la evolución técnica del código fuente del software *CrediRic*:
+
+| Versión | Día del Proyecto | Semana Académica | Procedimiento Relevante / Hito de Desarrollo |
+| :---: | :---: | :---: | :--- |
+| *v0.1* | Día 1 | Semana 3 | *Inicialización del Repositorio:* Creación de la estructura del proyecto en GitHub con la carpeta obligatoria src. Configuración del archivo base de Python. |
+| *v0.2* | Día 14 | Semana 5 | *Estructura de Datos Base:* Definición de los diccionarios y listas en memoria (usuarios, inventario, prestamos) para simular la persistencia temporal. |
+| *v0.3* | Día 28 | Semana 7 | *Módulo de Usuarios:* Implementación de la función registrar_usuario() y sus validaciones estrictas (nombres sin números, documento numérico, correo con @ y .com). |
+| *v0.4* | Día 42 | Semana 9 | *Módulo de Inventario:* Codificación de la función registrar_item(), asignación del menú de categorías y lógica para generar códigos ID automáticos (ej. VID-101). |
+| *v0.5* | Día 56 | Semana 11 | *Módulo de Control de Préstamos:* Programación de la función registrar_prestamo() con validación cruzada (verificar si el amigo existe y si el artículo está disponible). |
+| *v0.6* | Día 70 | Semana 13 | *Lógica de Devolución y Conchudez:* Creación de registrar_devolucion(). Integración del condicional para detectar más de 30 días, cálculo del *23% de impuesto* y generación de facturas .txt. |
+| *v0.7* | Día 77 | Semana 14 | *Algoritmo de Ordenamiento:* Incorporación del algoritmo de ordenamiento por el *Método Burbuja* para listar los préstamos activos de mayor a menor tiempo transcurrido. |
+| *v0.8* | Día 84 | Semana 15 | *Módulo de Administración:* Creación del submenú protegido por contraseña (admin / admin123) y funciones de cálculo matemático para las estadísticas e históricos. |
+| *v0.9* | Día 91 | Semana 16 | *Persistencia Final y Limpieza:* Implementación de la función exportar_a_csv() al salir del programa. Ajuste de la interfaz visual con flechas --> limpias según el estilo del docente. |
+| *v1.0* | Día 95 | Semana 16 | *Versión de Producción:* Pruebas finales de caja negra libres de errores. Creación de la carpeta doc en GitHub con el Manual de Usuario definitivo. |
+| *v1.1* | Día 98 | Semana 16 | *Cierre del Proyecto:* Congelamiento del código en GitHub listo para la sustentación presencial de 5 minutos ante el profesor Julián Andrés Castillo. |
+
 
 # Licencia
 <a href="https://github.com/isabellamarulanda/CrediRIC">CrediRIC</a> © 2026 by <a href="https://github.com/isabellamarulanda">Isabella Marulanda Uribe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
