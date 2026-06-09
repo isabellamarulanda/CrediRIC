@@ -66,7 +66,7 @@ Qué hace el algoritmo: Ofrece un submenú restringido de analítica matemática
 
 Flujo de datos:
 
-Solicita credenciales. Si el usuario ingresado coincide con admin y la contraseña con admin123, permite el ingreso.
+Solicita credenciales y si el usuario ingresado coincide con admin y la contraseña con admin123, permite el ingreso.
 
 Ejecuta contadores globales y acumuladores de sumas numéricas para desplegar en pantalla: préstamos totales, devoluciones, dinero histórico recaudado por las ventas forzadas y cálculos manuales de máximos y mínimos para hallar al amigo con mayor y menor cantidad de préstamos.
 
