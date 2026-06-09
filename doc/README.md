@@ -60,6 +60,7 @@ Opción 6: Consultar Artículos Prestados (consultar_articulos_prestados)
 Qué hace el algoritmo: Procesa la información de préstamos mediante un método de ordenamiento y genera un reporte físico.
 
 Funcionamiento interno: Aplica el Algoritmo de Ordenamiento de Burbuja para organizar los registros vigentes de mayor a menor tiempo de retraso. Adicionalmente, escribe de forma secuencial estas líneas en un archivo plano llamado reporte_prestamos.txt.
+
 Opción 7: Administrador (modulo_administrador)
 Qué hace el algoritmo: Ofrece un submenú restringido de analítica matemática.
 
